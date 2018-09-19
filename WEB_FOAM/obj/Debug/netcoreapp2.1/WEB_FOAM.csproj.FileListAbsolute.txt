@@ -1,0 +1,13 @@
+C:\Users\bharat.naidu\source\repos\WebApplication1\WEB_FOAM\bin\Debug\netcoreapp2.1\WEB_FOAM.deps.json
+C:\Users\bharat.naidu\source\repos\WebApplication1\WEB_FOAM\bin\Debug\netcoreapp2.1\WEB_FOAM.runtimeconfig.json
+C:\Users\bharat.naidu\source\repos\WebApplication1\WEB_FOAM\bin\Debug\netcoreapp2.1\WEB_FOAM.runtimeconfig.dev.json
+C:\Users\bharat.naidu\source\repos\WebApplication1\WEB_FOAM\bin\Debug\netcoreapp2.1\WEB_FOAM.dll
+C:\Users\bharat.naidu\source\repos\WebApplication1\WEB_FOAM\bin\Debug\netcoreapp2.1\WEB_FOAM.pdb
+C:\Users\bharat.naidu\source\repos\WebApplication1\WEB_FOAM\obj\Debug\netcoreapp2.1\WEB_FOAM.csproj.CoreCompileInputs.cache
+C:\Users\bharat.naidu\source\repos\WebApplication1\WEB_FOAM\obj\Debug\netcoreapp2.1\WEB_FOAM.RazorAssemblyInfo.cache
+C:\Users\bharat.naidu\source\repos\WebApplication1\WEB_FOAM\obj\Debug\netcoreapp2.1\WEB_FOAM.RazorAssemblyInfo.cs
+C:\Users\bharat.naidu\source\repos\WebApplication1\WEB_FOAM\obj\Debug\netcoreapp2.1\WEB_FOAM.AssemblyInfoInputs.cache
+C:\Users\bharat.naidu\source\repos\WebApplication1\WEB_FOAM\obj\Debug\netcoreapp2.1\WEB_FOAM.AssemblyInfo.cs
+C:\Users\bharat.naidu\source\repos\WebApplication1\WEB_FOAM\obj\Debug\netcoreapp2.1\WEB_FOAM.RazorTargetAssemblyInfo.cache
+C:\Users\bharat.naidu\source\repos\WebApplication1\WEB_FOAM\obj\Debug\netcoreapp2.1\WEB_FOAM.dll
+C:\Users\bharat.naidu\source\repos\WebApplication1\WEB_FOAM\obj\Debug\netcoreapp2.1\WEB_FOAM.pdb

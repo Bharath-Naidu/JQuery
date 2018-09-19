@@ -1,0 +1,23 @@
+﻿body {
+}
+
+.class-p 
+{
+    color: red;
+    font-family: 'Times New Roman';
+    font-size: 45px;
+}
+.p-class
+{
+    color: yellow;
+    font-family:Dubai;
+    font-size: 78px;
+}
+#divid, #divnid {
+    padding: 5px;
+    border:outset;
+    width:200px;
+    text-align: center;
+    font-family: 'Times New Roman';
+    background-color: darkgreen;
+}
