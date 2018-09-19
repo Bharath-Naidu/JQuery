@@ -1,0 +1,14 @@
+C:\Users\bharat.naidu\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\ID_CLASS_ELEMEMT_18_9_2018.deps.json
+C:\Users\bharat.naidu\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\ID_CLASS_ELEMEMT_18_9_2018.runtimeconfig.json
+C:\Users\bharat.naidu\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\ID_CLASS_ELEMEMT_18_9_2018.runtimeconfig.dev.json
+C:\Users\bharat.naidu\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\ID_CLASS_ELEMEMT_18_9_2018.dll
+C:\Users\bharat.naidu\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\ID_CLASS_ELEMEMT_18_9_2018.pdb
+C:\Users\bharat.naidu\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\ID_CLASS_ELEMEMT_18_9_2018.csprojAssemblyReference.cache
+C:\Users\bharat.naidu\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\ID_CLASS_ELEMEMT_18_9_2018.csproj.CoreCompileInputs.cache
+C:\Users\bharat.naidu\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\ID_CLASS_ELEMEMT_18_9_2018.RazorAssemblyInfo.cache
+C:\Users\bharat.naidu\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\ID_CLASS_ELEMEMT_18_9_2018.RazorAssemblyInfo.cs
+C:\Users\bharat.naidu\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\ID_CLASS_ELEMEMT_18_9_2018.AssemblyInfoInputs.cache
+C:\Users\bharat.naidu\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\ID_CLASS_ELEMEMT_18_9_2018.AssemblyInfo.cs
+C:\Users\bharat.naidu\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\ID_CLASS_ELEMEMT_18_9_2018.RazorTargetAssemblyInfo.cache
+C:\Users\bharat.naidu\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\ID_CLASS_ELEMEMT_18_9_2018.dll
+C:\Users\bharat.naidu\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\ID_CLASS_ELEMEMT_18_9_2018.pdb

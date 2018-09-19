@@ -1,0 +1,32 @@
+﻿
+
+.heading{
+   background-color:pink;
+   text-align:center;
+}
+
+#Bold-tag
+{
+    color:coral;
+    font-size:50px;
+    font-family:Arial;
+    align-content:center;
+    text-align:right;
+}
+
+#Box
+{
+    width:100px;
+    height:100Px;
+    background:red;
+    text-align:center;
+    font-size:15px;
+}
+
+button
+{
+  
+    
+    font-family:Castellar;
+    font-size:12px;
+}
